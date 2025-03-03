@@ -7,6 +7,7 @@ Option Explicit On
 Option Compare Text
 Module ShufleTheDeck
     Sub Main()
+
         Dim userInput As String
 
         Do
